@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 
 export async function handler(event) {
   const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
